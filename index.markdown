@@ -2,9 +2,9 @@
 layout: page
 title: Formalising Mathematics to Obtain Verified AI and Optimisation Software
 ---
-This page contains more information related to out poster about the formalisation of planning and combinatorial optimisation in [Isabelle/HOL](https://isabelle.in.tum.de/).
+Thank you so much for your interest in our work! This page contains more information related to our poster about the formalisation of planning and combinatorial optimisation in [Isabelle/HOL](https://isabelle.in.tum.de/).
 
-See our websites for more information about us:
+See our websites for more information about us and our work:
 * [David Wang](https://david-wang.at/)
 * [Thomas Ammer](https://toamme.github.io/)
 
@@ -15,5 +15,7 @@ The [Isabelle Graph Library](https://github.com/mabdula/Isabelle-Graph-Library) 
 [FormPlan](https://formplan.github.io/) is about Isabelle formalisations of planning and model checking.
 
 The references in our poster can be accessed [here](poster_references.pdf)
+
+Here again the [full poster](full_poster.pdf)
 
 
