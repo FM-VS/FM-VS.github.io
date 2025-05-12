@@ -14,8 +14,6 @@ The [Isabelle Graph Library](https://github.com/mabdula/Isabelle-Graph-Library) 
 
 [FormPlan](https://formplan.github.io/) is about Isabelle formalisations of planning and model checking.
 
-The references in our poster can be accessed [here](poster_references.pdf)
-
-Here again the [full poster](full_poster.pdf)
+The references in our poster can be accessed [here](poster_references.pdf). The [poster itself](poster_itself.pdf). And [here](poster_full.pdf) are poster and references combined into one file.
 
 
