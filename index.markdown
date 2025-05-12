@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Formalising Mathematics to Obtain Verified AI and Optimisation Software
 ---
 Thank you so much for your interest in our work! This page contains more information related to our poster about the formalisation of planning and combinatorial optimisation in [Isabelle/HOL](https://isabelle.in.tum.de/).
